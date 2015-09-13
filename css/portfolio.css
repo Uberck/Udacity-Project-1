@@ -1,0 +1,52 @@
+#wrapper {	
+	margin-left:auto;
+    margin-right:auto;
+    height:auto; 
+    width:1090px;
+}
+
+p {
+	margin:0;
+	font-family:"Verdana";
+	color:#676857;
+}
+
+#line1 {
+	text-align:right;
+	font-size:60px;
+}
+
+#line2 {
+	text-align:right;
+	font-size:24px;
+}
+
+#header {
+	float:left;
+	text-align:center;
+}
+
+#headertxt {
+	float:right;
+	text-align:center;
+}
+
+.line-separator{
+float:bottom;
+height:1px;
+background:#717171;
+border-bottom:1px solid #313030;
+}
+
+#content {
+	float:center;
+	text-align:center;
+	clear:center;
+	
+}
+
+#work {
+	float:center;
+	text-align:center;
+	clear:center;
+}
